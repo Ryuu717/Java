@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Steve</first_name>
+	<last_name>Jobs</last_name>
+	<phone_number>000-0000-0000</phone_number>
+	<notes>Apple</notes>
+</contact>
+<contact>
+	<first_name>Bill</first_name>
+	<last_name>Gates</last_name>
+	<phone_number>111-1111-1111</phone_number>
+	<notes>Microsoft</notes>
+</contact>
+<contact>
+	<first_name>Elon</first_name>
+	<last_name>Musk</last_name>
+	<phone_number>222-2222-2222</phone_number>
+	<notes>Tesla</notes>
+</contact>
+</contacts>
